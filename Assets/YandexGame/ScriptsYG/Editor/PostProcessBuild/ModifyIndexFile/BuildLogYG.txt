@@ -1,0 +1,2 @@
+Build path: /Users/ramildzafarli/Desktop/NinjaEscapeYandexGame
+Build number: 21
